@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CharitizeMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CharitizeMVC.d2bq91oncq.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\bg-footer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\donation-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\donation-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\donation-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\donation-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\donation-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\donation-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\event-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\event-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\event-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CharitizeMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CharitizeMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CharitizeMVC.props",
+      "PackagePath": "build\\CharitizeMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CharitizeMVC.props",
+      "PackagePath": "buildMultiTargeting\\CharitizeMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CharitizeMVC.props",
+      "PackagePath": "buildTransitive\\CharitizeMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

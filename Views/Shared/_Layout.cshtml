@@ -1,50 +1,115 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - CharitizeMVC</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/CharitizeMVC.styles.css" asp-append-version="true" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charitize - Charity Organization</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/assets/css/style.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CharitizeMVC</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
+    <div class="loader" id="loader">
+        <span></span>
+    </div>
+
+    <header class="site-header" id="top">
+        <div class="topbar">
+            <a class="brand" href="#top">Charitize</a>
+            <div class="contact-strip">
+                <div>
+                    <i class="fa fa-phone"></i>
+                    <span>Call Us</span>
+                    <strong>+012 345 6789</strong>
                 </div>
+                <div>
+                    <i class="fa fa-envelope-open"></i>
+                    <span>Mail Us</span>
+                    <strong>info@domain.com</strong>
+                </div>
+                <div>
+                    <i class="fa fa-map-marker-alt"></i>
+                    <span>Address</span>
+                    <strong>123 Street, NY, USA</strong>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar" id="navbar">
+            <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <div class="nav-links" id="navLinks">
+                <a href="#top" class="active">Home</a>
+                <a href="#about">About</a>
+                <a href="#services">Service</a>
+                <a href="#donation">Donation</a>
+                <a href="#events">Event</a>
+                <a href="#team">Our Team</a>
+                <a href="#contact">Contact</a>
+            </div>
+            <div class="social-links">
+                <a href="#!" aria-label="Twitter"><i class="fab fa-x-twitter"></i></a>
+                <a href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#!" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
             @RenderBody()
-        </main>
-    </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2026 - CharitizeMVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+ <footer class="footer" id="contact">
+        <div class="container footer-grid">
+            <div>
+                <h3>Our Office</h3>
+                <p><i class="fa fa-map-marker-alt"></i> 123 Street, New York, USA</p>
+                <p><i class="fa fa-phone"></i> +012 345 67890</p>
+                <p><i class="fa fa-envelope"></i> info@example.com</p>
+                <div class="footer-social"><a href="#!"><i class="fab fa-x-twitter"></i></a><a href="#!"><i class="fab fa-facebook-f"></i></a><a href="#!"><i class="fab fa-youtube"></i></a><a href="#!"><i class="fab fa-linkedin-in"></i></a></div>
+            </div>
+            <div>
+                <h3>Quick Links</h3>
+                <a href="#about">About Us</a>
+                <a href="#contact">Contact Us</a>
+                <a href="#services">Our Services</a>
+                <a href="#!">Terms & Condition</a>
+                <a href="#!">Support</a>
+            </div>
+            <div>
+                <h3>Business Hours</h3>
+                <p>Monday - Friday</p><strong>09:00 am - 07:00 pm</strong>
+                <p>Saturday</p><strong>09:00 am - 12:00 pm</strong>
+                <p>Sunday</p><strong>Closed</strong>
+            </div>
+            <div>
+                <h3>Gallery</h3>
+                <div class="gallery">
+                    <img src="~/assets/img/gallery-1.jpg" alt="Gallery item 1">
+                    <img src="~/assets/img/gallery-2.jpg" alt="Gallery item 2">
+                    <img src="~/assets/img/gallery-3.jpg" alt="Gallery item 3">
+                    <img src="~/assets/img/gallery-4.jpg" alt="Gallery item 4">
+                    <img src="~/assets/img/gallery-5.jpg" alt="Gallery item 5">
+                    <img src="~/assets/img/gallery-6.jpg" alt="Gallery item 6">
+                </div>
+            </div>
+        </div>
+        <div class="container copyright">
+            <span>© Your Site Name, All Right Reserved.</span>
+            <span>Designed By HTML Codex. Distributed by ThemeWagon.</span>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+
+    <div class="video-modal" id="videoModal" aria-hidden="true">
+        <div class="video-dialog">
+            <button id="closeVideo" aria-label="Close video"><i class="fa fa-xmark"></i></button>
+            <iframe id="videoFrame" title="YouTube video" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <button class="back-to-top" id="backToTop" aria-label="Back to top"><i class="fa fa-arrow-up"></i></button>
+    <script src="~/assets/js/main.js"></script>
 </body>
 </html>
 
