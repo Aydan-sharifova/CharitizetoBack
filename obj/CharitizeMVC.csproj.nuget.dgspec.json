@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj": {}
+    "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj": {
+    "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj",
         "projectName": "CharitizeMVC",
-        "projectPath": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj",
-        "packagesPath": "C:\\Users\\Classtime.PC_6_213_9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\obj\\",
+        "projectPath": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj",
+        "packagesPath": "C:\\Users\\Classtime.PC_6_213_6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Classtime.PC_6_213_9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Classtime.PC_6_213_6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
