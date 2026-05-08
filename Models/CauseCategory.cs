@@ -7,5 +7,6 @@
         public Category? Category { get; set; }
         public int CauseId { get; set; }
         public Cause? Cause { get; set; }
+        public ICollection<Donation>Donations { get; set; }
     }
 }

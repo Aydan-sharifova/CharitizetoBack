@@ -1,9 +1,224 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿    <main>
+        <section class="hero" aria-label="Featured causes">
+            <button class="slider-button prev" id="heroPrev" aria-label="Previous slide"><i class="fa fa-chevron-left"></i></button>
+            <div class="hero-track" id="heroTrack">
+                <article class="hero-slide active">
+                    <div class="hero-copy">
+                        <h1>Together for a Better Tomorrow</h1>
+                        <p>We believe in creating opportunities and empowering communities through education, healthcare, and sustainable development.</p>
+                        <div class="hero-actions">
+                            <a class="btn primary" href="#donate-form">Donate Now</a>
+                            <a class="btn dark" href="#team">Join Us Now</a>
+                        </div>
+                    </div>
+                    <img src="~/assets/img/carousel-1.jpg" alt="Volunteer smiling with children">
+                </article>
+                <article class="hero-slide">
+                    <div class="hero-copy">
+                        <h1>Together, We Can End Hunger</h1>
+                        <p>No one should go to bed hungry. Your support helps us bring smiles, hope, and a brighter future to those in need.</p>
+                        <div class="hero-actions">
+                            <a class="btn primary" href="#donate-form">Donate Now</a>
+                            <a class="btn dark" href="#team">Join Us Now</a>
+                        </div>
+                    </div>
+                    <img src="~/assets/img/carousel-2.jpg" alt="Child holding food outdoors">
+                </article>
+            </div>
+            <button class="slider-button next" id="heroNext" aria-label="Next slide"><i class="fa fa-chevron-right"></i></button>
+        </section>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+        <section class="video-band">
+            <div class="container video-content">
+                <button class="play-button" id="playVideo" aria-label="Play video"><span></span></button>
+                <h2>Together, we can build a world where everyone has the chance to thrive.</h2>
+                <span class="scroll-note">Scroll Down</span>
+            </div>
+        </section>
 
+        <section class="section about" id="about">
+            <div class="container two-column">
+                <div class="image-frame reveal">
+                    <img src="~/assets/img/about.jpg" alt="Charity volunteers distributing supplies">
+                </div>
+                <div class="section-copy reveal">
+                    <p class="eyebrow">About Us</p>
+                    <h2>Join Hands, Change the World</h2>
+                    <p>Every hand extended in kindness brings us closer to a world free from suffering. Be part of a global movement dedicated to building a future where equality and compassion thrive.</p>
+                    <div class="mission-grid">
+                        <div>
+                            <h3>Our Mission</h3>
+                            <p>Our mission is to uplift underprivileged communities by providing resources, education, and tools for growth.</p>
+                            <ul class="check-list">
+                                <li>No one should go to bed hungry.</li>
+                                <li>We spread kindness and support.</li>
+                                <li>We can change someone's life.</li>
+                            </ul>
+                        </div>
+                        <aside>
+                            <p>Through your donations, we spread kindness and support to children and families.</p>
+                            <a class="btn dark" href="#donate-form">Donate Now</a>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section services" id="services">
+            <div class="container service-layout">
+                <div class="service-intro reveal">
+                    <h2>What We Do for Those in Need.</h2>
+                    <p>We work to bring smiles, hope, and a brighter future to those in need.</p>
+                </div>
+                <div class="service-grid">
+                    <article class="service-card reveal"><i class="fa fa-droplet"></i><h3>Pure Water</h3><p>We're creating programs that address urgent needs while fostering long-term solutions for sustainable change.</p><a href="#!">Read More</a></article>
+                    <article class="service-card reveal"><i class="fa fa-hospital"></i><h3>Health Care</h3><p>We're creating programs that address urgent needs while fostering long-term solutions for sustainable change.</p><a href="#!">Read More</a></article>
+                    <article class="service-card reveal"><i class="fa fa-hands-holding-child"></i><h3>Social Care</h3><p>We're creating programs that address urgent needs while fostering long-term solutions for sustainable change.</p><a href="#!">Read More</a></article>
+                    <article class="service-card reveal"><i class="fa fa-bowl-food"></i><h3>Healthy Food</h3><p>We're creating programs that address urgent needs while fostering long-term solutions for sustainable change.</p><a href="#!">Read More</a></article>
+                    <article class="service-card reveal"><i class="fa fa-school"></i><h3>Primary Education</h3><p>We're creating programs that address urgent needs while fostering long-term solutions for sustainable change.</p><a href="#!">Read More</a></article>
+                    <article class="service-card reveal"><i class="fa fa-house"></i><h3>Residence Facilities</h3><p>We're creating programs that address urgent needs while fostering long-term solutions for sustainable change.</p><a href="#!">Read More</a></article>
+                </div>
+            </div>
+        </section>
+
+        <section class="section stats-section">
+            <div class="container two-column">
+                <div class="stats-grid reveal">
+                    <div><i class="fa fa-users"></i><strong data-counter="500">0</strong><span>Team Members</span></div>
+                    <div><i class="fa fa-award"></i><strong data-counter="70">0</strong><span>Award Winning</span></div>
+                    <div><i class="fa fa-list-check"></i><strong data-counter="3000">0</strong><span>Total Projects</span></div>
+                    <div><i class="fa fa-comments"></i><strong data-counter="7000">0</strong><span>Client's Review</span></div>
+                </div>
+                <div class="section-copy reveal">
+                    <p class="eyebrow">Why Us!</p>
+                    <h2>Few Reasons Why People Choosing Us!</h2>
+                    <p>We believe in creating opportunities and empowering communities through education, healthcare, and sustainable development. Your support helps us bring smiles, hope, and a brighter future to those in need.</p>
+                    <ul class="check-list">
+                        <li>Justo magna erat amet</li>
+                        <li>Aliqu diam amet diam et eos</li>
+                        <li>Clita erat ipsum et lorem et sit</li>
+                    </ul>
+                    <div class="inline-actions">
+                        <a class="btn primary" href="#donate-form">Donate Now</a>
+                        <a class="btn dark" href="#team">Join Us Now</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section donation" id="donation">
+            <div class="container">
+                <div class="section-heading reveal">
+                    <p class="eyebrow">Donation</p>
+                    <h2>Our Donation Causes Around the World</h2>
+                </div>
+                <div class="cause-grid">
+                    <article class="cause-card reveal">
+                        <div class="progress-panel"><span>Raised<br><strong>$8000</strong></span><div class="progress"><b style="height:85%"></b><em>85%</em></div><span>Goal<br><strong>$10000</strong></span></div>
+                        <div class="cause-media"><img src="~/assets/img/donation-1.jpg" alt="Healthy food donation"><span>Food</span></div>
+                        <div class="cause-body"><h3>Healthy Food</h3><p>Through your donations and volunteer work, we spread kindness and support to children.</p><a class="btn primary" href="#donate-form"><i class="fa fa-plus"></i> Donate Now</a></div>
+                    </article>
+                    <article class="cause-card reveal">
+                       <div class="progress-panel"><span>Raised<br><strong>$8000</strong></span><div class="progress"><b style="height:95%"></b><em>95%</em></div><span>Goal<br><strong>$10000</strong></span></div>
+                    <div class="cause-media"><img src="~/assets/img/donation-2.jpg" alt="Water support project"><span>Health</span></div>
+                    <div class="cause-body"><h3>Water Treatment</h3><p>Through your donations and volunteer work, we spread kindness and support to children.</p><a class="btn primary" href="#donate-form"><i class="fa fa-plus"></i> Donate Now</a></div>
+                    </article>
+                    <article class="cause-card reveal">
+                    <div class="progress-panel"><span>Raised<br><strong>$8000</strong></span><div class="progress"><b style="height:75%"></b><em>75%</em></div><span>Goal<br><strong>$10000</strong></span></div>
+                    <div class="cause-media"><img src="~/assets/img/donation-3.jpg" alt="Education support"><span>Education</span></div>
+                        <div class="cause-body"><h3>Education Support</h3><p>Through your donations and volunteer work, we spread kindness and support to children.</p><a class="btn primary" href="#donate-form"><i class="fa fa-plus"></i> Donate Now</a></div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="banner">
+            <div class="container banner-inner reveal">
+                <h2>Our Door Are Always Open to More People Who Want to Support Each Others!</h2>
+                <p>Through your donations and volunteer work, we spread kindness and support to children, families, and communities struggling to find stability.</p>
+                <div class="inline-actions">
+                    <a class="btn primary" href="#donate-form">Donate Now</a>
+                    <a class="btn dark" href="#team">Join Us Now</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section events" id="events">
+            <div class="container">
+                <div class="section-heading reveal">
+                    <p class="eyebrow">Events</p>
+                    <h2>Be a Part of a Global Movement</h2>
+                </div>
+                <div class="event-grid">
+                <article class="event-card reveal"><img src="~/assets/img/event-1.jpg" alt="Education program"><div><h3>Education Program</h3><p>Through your donations and volunteer work, we spread kindness and support to children.</p><span><i class="fa fa-clock"></i> 10:00 AM - 18:00 PM</span><span><i class="fa fa-calendar"></i> Jan 01 - Jan 10</span><span><i class="fa fa-location-dot"></i> 123 Street, New York, USA</span></div></article>
+                <article class="event-card reveal"><img src="~/assets/img/event-1.jpg" alt="Awareness program"><div><h3>Awareness Program</h3><p>Through your donations and volunteer work, we spread kindness and support to children.</p><span><i class="fa fa-clock"></i> 10:00 AM - 18:00 PM</span><span><i class="fa fa-calendar"></i> Jan 01 - Jan 10</span><span><i class="fa fa-location-dot"></i> 123 Street, New York, USA</span></div></article>
+                <article class="event-card reveal"><img src="~/assets/img/event-1.jpg" alt="Health care program"><div><h3>Health Care Program</h3><p>Through your donations and volunteer work, we spread kindness and support to children.</p><span><i class="fa fa-clock"></i> 10:00 AM - 18:00 PM</span><span><i class="fa fa-calendar"></i> Jan 01 - Jan 10</span><span><i class="fa fa-location-dot"></i> 123 Street, New York, USA</span></div></article>
+                </div>
+            </div>
+        </section>
+
+        <section class="section donate-block" id="donate-form">
+            <div class="container donate-layout">
+                <div class="donate-text reveal">
+                    <h2>Let's Donate to Needy People for Better Lives</h2>
+                    <p>Through your donations, we spread kindness and support to children, families, and communities struggling to find stability.</p>
+                </div>
+                <form class="donate-form reveal">
+                    <input type="text" placeholder="Your Name" aria-label="Your Name">
+                    <input type="email" placeholder="Your Email" aria-label="Your Email">
+                    <div class="amounts" id="amounts">
+                        <button type="button" class="selected">$10</button>
+                        <button type="button">$20</button>
+                        <button type="button">$30</button>
+                        <button type="button">$40</button>
+                        <button type="button">$50</button>
+                    </div>
+                    <button class="btn dark full" type="submit">Donate Now</button>
+                    <p class="form-note" id="donateNote" role="status"></p>
+                </form>
+            </div>
+        </section>
+
+        <section class="section team" id="team">
+            <div class="container">
+                <div class="section-heading reveal">
+                    <p class="eyebrow">Our Team</p>
+                    <h2>Meet Our Dedicated Team Members</h2>
+                </div>
+                <div class="team-grid">
+                <article class="team-card reveal"><img src="~/assets/img/team-1.jpg" alt="Boris Johnson"><h3>Boris Johnson</h3><span>Founder & CEO</span><div><a href="#!"><i class="fab fa-facebook-f"></i></a><a href="#!"><i class="fab fa-x-twitter"></i></a><a href="#!"><i class="fab fa-instagram"></i></a><a href="#!"><i class="fab fa-youtube"></i></a></div></article>
+                <article class="team-card reveal"><img src="~/assets/img/team-2.jpg" alt="Donald Pakura"><h3>Donald Pakura</h3><span>Project Manager</span><div><a href="#!"><i class="fab fa-facebook-f"></i></a><a href="#!"><i class="fab fa-x-twitter"></i></a><a href="#!"><i class="fab fa-instagram"></i></a><a href="#!"><i class="fab fa-youtube"></i></a></div></article>
+                <article class="team-card reveal"><img src="~/assets/img/team-3.jpg" alt="Alexander Bell"><h3>Alexander Bell</h3><span>Volunteer</span><div><a href="#!"><i class="fab fa-facebook-f"></i></a><a href="#!"><i class="fab fa-x-twitter"></i></a><a href="#!"><i class="fab fa-instagram"></i></a><a href="#!"><i class="fab fa-youtube"></i></a></div></article>
+                </div>
+            </div>
+        </section>
+
+        <section class="section testimonials">
+            <div class="container testimonial-layout">
+                <div class="testimonial-title reveal">
+                    <h2>What People Say About Our Activities.</h2>
+                    <p>We work to bring smiles, hope, and a brighter future to those in need.</p>
+                </div>
+                <div class="testimonial-slider reveal">
+                    <button id="testPrev" aria-label="Previous testimonial"><i class="fa fa-chevron-left"></i></button>
+                    <div class="testimonial-track" id="testimonialTrack">
+                    <article class="testimonial active"><img src="~/assets/img/testimonial-1.jpg" alt="Alexander Bell"><div><p>Education is the foundation of change. By funding schools, scholarships, and training programs, we can help children and adults unlock their potential for a better future.</p><strong>Alexander Bell</strong><span>CEO, Founder</span></div></article>
+                        <article class="testimonial"><img src="~/assets/img/testimonial-2.jpg" alt="Donald Pakura"><div><p>Every hand extended in kindness brings us closer to a world free from suffering. Be part of a global movement dedicated to building a future where equality and compassion thrive.</p><strong>Donald Pakura</strong><span>CEO, Founder</span></div></article>
+                    <article class="testimonial"><img src="~/assets/img/testimonial-3.jpg" alt="Boris Johnson"><div><p>Love and compassion have the power to heal. Through your donations and volunteer work, we can spread kindness and support to children, families, and communities struggling to find stability.</p><strong>Boris Johnson</strong><span>CEO, Founder</span></div></article>
+                    </div>
+                    <button id="testNext" aria-label="Next testimonial"><i class="fa fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </section>
+
+        <section class="newsletter">
+            <div class="container reveal">
+                <h2>Subscribe the Newsletter</h2>
+                <form id="newsletterForm">
+                    <input type="email" placeholder="Enter Your Email" aria-label="Enter Your Email">
+                    <button type="submit" aria-label="Subscribe"><i class="fa fa-paper-plane"></i></button>
+                </form>
+                <p id="newsletterNote">Don't worry, we won't spam you with emails.</p>
+            </div>
+        </section>
+    </main>
