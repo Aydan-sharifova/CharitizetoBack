@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Huk0I7sJcbt1Fvj8ivForMM8GuPO1RLTY8UiBcMKrbUU0s/Wc89hi4rZl7q4bRgy0tRqMRoFbFdWPuO0A9ZpmA==",
+  "dgSpecHash": "rjGo0Y8p++M=",
   "success": true,
-  "projectFilePath": "/Users/aydansrifova/Desktop/CharitizeMVC/CharitizeMVC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\CharitizeMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Classtime.PC_6_213_12\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Classtime.PC_6_213_12\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Classtime.PC_6_213_12\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Classtime.PC_6_213_12\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

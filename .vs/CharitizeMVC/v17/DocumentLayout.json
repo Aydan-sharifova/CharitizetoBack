@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\cause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\cause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\causecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\causecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\volunteers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\volunteers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\eventregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\newslettersubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\newslettersubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\charitizetoback\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cause.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Cause.cs",
+              "RelativeDocumentMoniker": "Models\\Cause.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Cause.cs",
+              "RelativeToolTip": "Models\\Cause.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:27:27.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Enums\\Role.cs",
+              "RelativeToolTip": "Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:25:24.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Volunteers.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Volunteers.cs",
+              "RelativeDocumentMoniker": "Models\\Volunteers.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Volunteers.cs",
+              "RelativeToolTip": "Models\\Volunteers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:22:05.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Donation.cs",
+              "RelativeToolTip": "Models\\Donation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:15:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CauseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\CauseCategory.cs",
+              "RelativeDocumentMoniker": "Models\\CauseCategory.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\CauseCategory.cs",
+              "RelativeToolTip": "Models\\CauseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:11:57.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:11:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "Models\\ContactMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:09:22.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Gallery.cs",
+              "RelativeDocumentMoniker": "Models\\Gallery.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Gallery.cs",
+              "RelativeToolTip": "Models\\Gallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:08:18.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:05:31.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\EventRegistration.cs",
+              "RelativeDocumentMoniker": "Models\\EventRegistration.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\EventRegistration.cs",
+              "RelativeToolTip": "Models\\EventRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:03:37.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Testimonial.cs",
+              "RelativeDocumentMoniker": "Models\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Testimonial.cs",
+              "RelativeToolTip": "Models\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:01:40.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsletterSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\NewsletterSubscriber.cs",
+              "RelativeDocumentMoniker": "Models\\NewsletterSubscriber.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\NewsletterSubscriber.cs",
+              "RelativeToolTip": "Models\\NewsletterSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:00:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\CharitizetoBack\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:57:58.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
