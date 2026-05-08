@@ -1,14 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\",
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\charitizetoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\charitizetoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\wwwroot\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:wwwroot\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\wwwroot\\assets\\img\\event-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:wwwroot\\assets\\img\\event-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\wwwroot\\assets\\img\\carousel-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:wwwroot\\assets\\img\\carousel-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\charitizetoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E491BD27-5DD1-4D62-B5A8-3AB469514856}|CharitizeMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +46,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\js\\main.js",
+              "RelativeToolTip": "wwwroot\\assets\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T08:10:39.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "event-1.jpg - Bitmap [500x250, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\event-1.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\img\\event-1.jpg",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\event-1.jpg - Bitmap [500x250, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\assets\\img\\event-1.jpg - Bitmap [500x250, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-08T08:10:28.578Z",
+              "EditorCaption": " - Bitmap [500x250, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "carousel-1.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\carousel-1.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\img\\carousel-1.jpg",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\img\\carousel-1.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\assets\\img\\carousel-1.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-08T08:10:26.491Z",
+              "EditorCaption": " - Bitmap [800x800, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\assets\\css\\style.css",
+              "ViewState": "AgIAADYFAAAAAAAAAAAiwEgFAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-08T08:10:15.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:07:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T08:04:16.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:58:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T08:18:47.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\CharitizetoBack\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\CharitizetoBack\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T08:17:24.376Z",
               "EditorCaption": ""
